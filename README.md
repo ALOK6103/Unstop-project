@@ -19,7 +19,7 @@ https://unstop-assignment.vercel.app/
 
 
 
-<h2>Technology Used</h2>
+<h2>Technologies Used</h2>
 
 * React.js for the frontend
 * Axios for API requests
