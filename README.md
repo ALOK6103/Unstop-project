@@ -13,17 +13,17 @@ https://unstop-assignment.vercel.app/
 
 <h2>Features</h2>
 
-Train seat booking.
-At a time maximum seat booking limit is 7.
-See the seats which you have booked.
+* Train seat booking.
+* At a time maximum seat booking limit is 7.
+* See the seats which you have booked.
 
 
 
 <h2>Technology Used</h2>
 
-React.js for the frontend
-Axios for API requests
-CSS3 for styling
-Node.js and Express.js for the backend
-MongoDB for the database
-mongoose for DB connection
+* React.js for the frontend
+* Axios for API requests
+* CSS3 for styling
+* Node.js and Express.js for the backend
+* MongoDB for the database
+* mongoose for DB connection
